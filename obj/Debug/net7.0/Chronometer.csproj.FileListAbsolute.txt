@@ -1,0 +1,15 @@
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.csproj.AssemblyReference.cache
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.AssemblyInfoInputs.cache
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.AssemblyInfo.cs
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.csproj.CoreCompileInputs.cache
+D:\Repositório Estudos\Chronometer\bin\Debug\net7.0\Chronometer.exe
+D:\Repositório Estudos\Chronometer\bin\Debug\net7.0\Chronometer.deps.json
+D:\Repositório Estudos\Chronometer\bin\Debug\net7.0\Chronometer.runtimeconfig.json
+D:\Repositório Estudos\Chronometer\bin\Debug\net7.0\Chronometer.dll
+D:\Repositório Estudos\Chronometer\bin\Debug\net7.0\Chronometer.pdb
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.dll
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\refint\Chronometer.dll
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.pdb
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\Chronometer.genruntimeconfig.cache
+D:\Repositório Estudos\Chronometer\obj\Debug\net7.0\ref\Chronometer.dll
