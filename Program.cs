@@ -18,6 +18,7 @@ class Program{
             System.Console.WriteLine("Finalizando programa..");
             Environment.Exit(0);     
         }
+        
         char type = char.Parse(data.Substring(data.Length - 1, 1));
         int time = int.Parse(data[..^1]);
         int multiplier = 1;
